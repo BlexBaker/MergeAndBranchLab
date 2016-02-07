@@ -1,1 +1,1 @@
-puts "I am in a branch"
+puts "I am in the master branch"
