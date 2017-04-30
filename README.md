@@ -22,8 +22,10 @@ Inside of MergeAndBranchLab is a file called SoftwareEngineeringLab.rb. Open the
 Now also create a second ruby file in your favorite text editor and add something to it. Mine is called BrennasFile.rb	
 
 In command line, cd into MergeAndBranchLab. 
-	Add the files to staging using the command       
+	Add the files to staging using the command  
+	
 $git add . 
+
 The “.” means add all the files inside the MergeAndBranchLab directory for staging. 
 
 Now commit your files using your name in your commit message
