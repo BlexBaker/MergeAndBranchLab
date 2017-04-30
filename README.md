@@ -30,7 +30,7 @@ The “.” means add all the files inside the MergeAndBranchLab directory for s
 
 Now commit your files using your name in your commit message
 $git commit -m “YourName's commit”
-You’ll get a little message like this. It tells you that you are working on the master branch, 	how many files you changed, and a little information about what types of changes were 		made. 
+You’ll get a little message that tells you that you are working on the master branch, 	how many files you changed, and a little information about what types of changes were 		made. 
 
 
 
