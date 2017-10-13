@@ -1,10 +1,10 @@
 # MergeAndBranchLab
 for CS 170/270
-By Brenna Baker
+By Blex https://github.com/BlexBaker
 
 	This lab will give you some practice in collaborating with other people on the same files. We are all going to work off the same repository for this lab, so the more people that participate in lab, the more helpful it will be to see the power of git. 
 
-Ask Brenna to to add you as a collaborator (either ask me in person during lab, or if you want to do this lab at home, email me your github username) 
+Ask me to add you as a collaborator (either ask me in person during lab, or if you want to do this lab at home, email me your github username) 
 
 Navigate to the MergeAndBranchLab repository, which should now be available as one of your repositories. 
 
